@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "chancho",
+    "email": "chancho@mail.com",
+    "password": "1234"
+  },
+  
+  {
+    "nombre": "Elcompa",
+    "email": "elcompa@mail.com",
+    "password": "4321"
+  },
+  
+  {
+    "nombre": "Juanalacubana",
+    "email": "juana@cubana.com",
+    "password": "7456"
+  }
+]
